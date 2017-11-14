@@ -144,7 +144,7 @@ h2 {
 }
 @font-face {
     font-family: 'UpperWestSide';
-    src: url('../UpperWestSide.ttf');
+    src: url('group/upperwestside.ttf');
 }
 
 h1 {
