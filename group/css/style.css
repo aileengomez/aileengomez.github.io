@@ -104,7 +104,7 @@ h2 {
     font-family: 'Kreon', serif;
 }
 
-.agfa {
+.fa {
     padding: 10px;
     font-size: 30px;
     width: 20px;
@@ -114,24 +114,24 @@ h2 {
 }
 
 /* Twitter */
-.agfa-twitter {
+.fa-twitter {
     background: #55ACEE;
     color: white;}
 /* Facebook */
-.agfa-facebook {
+.fa-facebook {
     background: #3B5998;
     color: white;}
 /* Snapchat */
-.agfa-snapchat-ghost {
+.fa-snapchat-ghost {
   background: #fffc00;
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
 /* Youtube */
-.agfa-youtube {
+.fa-youtube {
   background: #bb0000;
   color: white;}
 /* Instagram */
-.agfa-instagram {
+.fa-instagram {
   background: #125688;
     color: white;}
 
