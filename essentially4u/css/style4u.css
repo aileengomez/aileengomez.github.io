@@ -1,0 +1,167 @@
+.nav a:hover {
+    color: #FF0000;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #17202A;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.nav {
+    background-image: url("images/essentiallyforu-lavenderlong-3.png");
+    /*background-color: white;*/
+    min-width: 100%;
+    font-size: 25px;
+    padding: 5px;
+    
+}
+.nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    /*margin-top: 0px;
+    margin: 0px;
+    background-color: #f3eaea;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 470px;
+    width: 110px;*/
+    text-align: center;  
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: none;
+    align-items: center;}
+
+.container img {
+   height: 150px;
+    vertical-align: middle;
+    
+}
+
+.logo {
+    background-color: #FFFFFF;
+}
+.nav li {
+    display: inline; }
+    /*background-color: #D2DAB7;
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    height: 50%;}*/
+
+
+.buckets {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    min-height: 100%;
+    text-align: center;
+
+}
+
+
+.mini {
+    /* Border used only to visualize layout
+    border: lightgrey 2px solid;*/
+    padding: 25px 15px;
+    font-family: 'lato', sans-serif;
+    align-content: center;
+
+}
+
+.mini a, .hero a {
+    color: #17202A;
+}
+.hero p {
+    text-align: center;
+}
+
+.hero li {
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    align-content: center;
+}
+}
+.right {
+    margin: 10%;
+    margin-top: 10%;
+}
+
+body {
+    width: 1024px;
+    margin: auto;
+    background-color: #CEFF33;
+}
+    
+html body {
+    height: 100%;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+}
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'lato', sans-serif;
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;}
+/* Youtube */
+.fa-youtube {
+  background: #bb0000;
+  color: white;}
+/* Instagram */
+.fa-instagram {
+  background: #125688;
+    color: white;}
+/* Google */
+.fa-google {
+  background: #dd4b39;
+    color: white;}
+
+.footer {
+    padding: 25px;
+    margin: 10px;
+    display: inline-block;
+}
+.middle {
+    align-content: center;
+}
+
+.hero ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.middle img {
+    resize: 100%;
+}
