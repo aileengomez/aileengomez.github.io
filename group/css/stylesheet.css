@@ -5,47 +5,22 @@
 }
 
 .rcnav ul{
-    /*display: block;
+    display: block;
     list-style-type: none;
     margin: 0;
     width: 110px;
     height: 470px;
     background-color: #f3eaea;   position: fixed;
-    justify-content: space-between;*/
-    display: flex;
-    flex-direction: column;
-    margin-top: 0px;
-    margin: 0px;
-    justify-content: space-around;
-    background-color: #f3eaea;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left: 15px;
-    padding-right: 15px;
-    height: 470px;
-    width: 110px;
-    text-align: center;  
-    font-family: 'Lato', sans-serif;
-    text-decoration: none;
+    justify-content: space-between;
 
 }
-
-.rcnav a {
-    text-decoration: none;
-    color: #17202A;
-}
-
-.rcnav a:hover {
-    color: #FF0000;
-}
-
 
 .rcnav li{
-    /*display: block;
+    display: block;
     padding-right: 25px;
     padding-left: 25px;
     padding-top: 17px;
-    text-decoration: none;*/
+    text-decoration: none;
 }
 
 p{
@@ -129,7 +104,7 @@ p{
 
 @font-face{
     font-family: 'UpperWestSide';
-    src: url('group/upperwestside.ttf');
+    src: url('UpperWestSide.ttf');
 }
 /*Font downloaded off the internet from tiff file*/
 
