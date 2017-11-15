@@ -142,9 +142,9 @@ h2 {
     margin: center;
     width: 100%;
 }
-@font-face {
+@font-face{
     font-family: 'UpperWestSide';
-    src: url('group/upperwestside.ttf');
+    src: url('../upperwestside.ttf');
 }
 
 h1 {
